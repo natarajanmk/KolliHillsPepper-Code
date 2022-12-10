@@ -1,0 +1,93 @@
+<div class="container py-3">
+  <div class="row d-flex justify-content-center align-items-center">
+    <div class="col-xl-10">
+      <div class="card rounded-3 text-black">
+        <div class="row g-0">
+          <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+            <img src="../../../../assets/images/dashboard/dashboard.jpg" 
+            class="card-img-top h-100" alt="...">
+          </div>
+          
+          <div class="col-sm-6" style="background: #f8f6f6b9;">
+            <div class="card-header" style="text-align:center">New User</div>
+            <div class="card-body">             
+              <form [formGroup]="requiredForm" (ngSubmit)="onSubmit($event)" novalidate>
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-user fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="text" class="form-control" id="firstname" 
+                        formControlName="firstname" placeholder="First Name" 
+                        [ngClass]="{'form-submitted': formSubmitted}">
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-user fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="text" class="form-control" placeholder="Last Name"
+                      formControlName="lastname" required
+                      [ngClass]="{'form-submitted': formSubmitted}">
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-envelope fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="email" class="form-control" placeholder="Email address"
+                      name="email"
+                      formControlName="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"
+                      [ngClass]="{'form-submitted': formSubmitted}">
+                    </div>
+                  </div>
+                   
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-lock fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="password" class="form-control" placeholder="Password"
+                      formControlName="password" required
+                      [ngClass]="{'form-submitted': formSubmitted}">
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-mobile-phone fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="text" class="form-control" placeholder="Phone number"
+                      formControlName="phonenumber" required
+                      [ngClass]="{'form-submitted': formSubmitted}">
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-address-book fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="text" class="form-control" placeholder="Address">
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-address-card fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="text" class="form-control" placeholder="Location">
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mb-2">
+                    <i class="fa fa-code fa-lg me-3 fa-fw"></i>
+                    <div class="form-outline flex-fill mb-0">
+                      <input type="text" class="form-control" placeholder="PinCode">
+                    </div>
+                  </div>
+                  <div class="d-flex justify-content-center mx-2 mb-3 mb-lg-4">
+                    <button type="submit" class="btn fa fa-sign-in">&nbsp;Register</button> &nbsp;
+                    <button type="button" class="btn btn-warning fa fa-close">&nbsp;Reset</button>
+                  </div>
+              </form>
+                         
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

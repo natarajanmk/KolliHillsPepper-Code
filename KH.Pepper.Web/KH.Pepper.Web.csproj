@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    
+    <DelaySign>true</DelaySign>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyOriginatorKeyFile>D:\KHPPublicKey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\UserController2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KH.Pepper.DataModel\KH.Pepper.Core.Domain.csproj" />
+    <ProjectReference Include="..\KH.Pepper.Infrastructure.Scripts\KH.Pepper.Infra.Scripts.csproj" />
+    <ProjectReference Include="..\KH.Pepper.Web.Config\KH.Pepper.Web.Config.csproj" />
+  </ItemGroup>
+
+</Project>

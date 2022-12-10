@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "../../KH.Pepper.Web.UI/node_modules/bootstrap/dist/css/bootstrap.css";
+
+:root{
+  --color-green : #8dc63f;
+  --color-black : #0c0c0b;
+  --color-light-sadow : #8b8b86;
+  --color-white :#fff;
+  --linear-gradient-color-1 : #858684;
+  --linear-gradient-color-2 : #95a187;
+  --linear-gradient-color-3 : #8dc63f;
+  --linear-gradient-color-4 : #e75b1e;
+  --linear-gradient-color-5 : #579b13;
+  --KH-font-family:'Roboto', sans-serif;
+
+  /*  BUTTON */
+  --button-bg-color-green : #8dc63f;
+  --button-bg-color-organge : #e75b1e;
+  --button-font-color-white : #fff;
+  --button-bg-color-black : #000;
+}  
+
+body{
+    background: #E6E6E6;
+}
+.card-header{
+  background:var(--color-green);
+  /* background: linear-gradient(100deg,
+          var(--linear-gradient-color-1),
+          var(--linear-gradient-color-2),
+          var(--linear-gradient-color-3),
+          var(--linear-gradient-color-4)); */
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+}
+.btn1 {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 6px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}

@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Solution Items", "01 Solution Items", "{8FF68A40-06D0-452E-BAE1-66C1CA2A8E86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Core", "04 Core", "{47309555-8039-4491-B356-02F9C2C6809C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KH.Pepper.Core.Domain", "KH.Pepper.DataModel\KH.Pepper.Core.Domain.csproj", "{494E85C8-3E5B-4D1B-AE01-C5E9C31EF229}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KH.Pepper.Infra.DataBase", "KH.Pepper.Infrastructure.Data\KH.Pepper.Infra.DataBase.csproj", "{84641C5F-5022-4933-B5B7-B4FF360AEC35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KH.Pepper.Core.AppServices", "KH.Pepper.Services\KH.Pepper.Core.AppServices.csproj", "{9CE0B139-84EF-44CC-8493-C1C37472E315}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Web", "05 Web", "{E5A27710-F7F0-4370-A8EC-3C34210B3353}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KH.Pepper.Web", "KH.Pepper.Web\KH.Pepper.Web.csproj", "{CCF4AF9D-D1CC-49B2-8DB5-180A2F1D5E1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 Test", "99 Test", "{C662A0EC-1F73-4A13-975F-6A3FDE04C16E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KH.Pepper.Infra.Scripts", "KH.Pepper.Infrastructure.Scripts\KH.Pepper.Infra.Scripts.csproj", "{C0245973-8561-4831-BC68-852EB56DB96A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Configuration", "02 Configuration", "{53C10C09-E09F-4CCA-9AB0-9AE1EC83BE93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Infrastructure", "03 Infrastructure", "{9EEA52C9-D0F4-4699-A2C9-B3F54FD1CF87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KH.Pepper.Web.Config", "KH.Pepper.Web.Config\KH.Pepper.Web.Config.csproj", "{C91050D8-959C-4945-B318-840A5ED21F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494E85C8-3E5B-4D1B-AE01-C5E9C31EF229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494E85C8-3E5B-4D1B-AE01-C5E9C31EF229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494E85C8-3E5B-4D1B-AE01-C5E9C31EF229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494E85C8-3E5B-4D1B-AE01-C5E9C31EF229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84641C5F-5022-4933-B5B7-B4FF360AEC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84641C5F-5022-4933-B5B7-B4FF360AEC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84641C5F-5022-4933-B5B7-B4FF360AEC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84641C5F-5022-4933-B5B7-B4FF360AEC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE0B139-84EF-44CC-8493-C1C37472E315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE0B139-84EF-44CC-8493-C1C37472E315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE0B139-84EF-44CC-8493-C1C37472E315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE0B139-84EF-44CC-8493-C1C37472E315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF4AF9D-D1CC-49B2-8DB5-180A2F1D5E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF4AF9D-D1CC-49B2-8DB5-180A2F1D5E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF4AF9D-D1CC-49B2-8DB5-180A2F1D5E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF4AF9D-D1CC-49B2-8DB5-180A2F1D5E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0245973-8561-4831-BC68-852EB56DB96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0245973-8561-4831-BC68-852EB56DB96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0245973-8561-4831-BC68-852EB56DB96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0245973-8561-4831-BC68-852EB56DB96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91050D8-959C-4945-B318-840A5ED21F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91050D8-959C-4945-B318-840A5ED21F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91050D8-959C-4945-B318-840A5ED21F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91050D8-959C-4945-B318-840A5ED21F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{494E85C8-3E5B-4D1B-AE01-C5E9C31EF229} = {47309555-8039-4491-B356-02F9C2C6809C}
+		{84641C5F-5022-4933-B5B7-B4FF360AEC35} = {9EEA52C9-D0F4-4699-A2C9-B3F54FD1CF87}
+		{9CE0B139-84EF-44CC-8493-C1C37472E315} = {47309555-8039-4491-B356-02F9C2C6809C}
+		{CCF4AF9D-D1CC-49B2-8DB5-180A2F1D5E1E} = {E5A27710-F7F0-4370-A8EC-3C34210B3353}
+		{C0245973-8561-4831-BC68-852EB56DB96A} = {9EEA52C9-D0F4-4699-A2C9-B3F54FD1CF87}
+		{C91050D8-959C-4945-B318-840A5ED21F8C} = {53C10C09-E09F-4CCA-9AB0-9AE1EC83BE93}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B01D599-20FF-4F27-A740-82DF18557F7D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\bin\Release\net6.0\KH.Pepper.Core.AppServices.deps.json
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\bin\Release\net6.0\KH.Pepper.Core.AppServices.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\bin\Release\net6.0\KH.Pepper.Core.AppServices.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\bin\Release\net6.0\KH.Pepper.Core.Domain.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\bin\Release\net6.0\KH.Pepper.Core.Domain.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.csproj.AssemblyReference.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.AssemblyInfoInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.AssemblyInfo.cs
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.csproj.CopyComplete
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\refint\KH.Pepper.Core.AppServices.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\KH.Pepper.Core.AppServices.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Services\obj\Release\net6.0\ref\KH.Pepper.Core.AppServices.dll

@@ -1,0 +1,15 @@
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.deps.json
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.DataModel.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.DataModel.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.DataBase.csproj.AssemblyReference.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.DataBase.AssemblyInfoInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.DataBase.AssemblyInfo.cs
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.DataBase.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.DataBase.csproj.CopyComplete
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\refint\KH.Spices.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\ref\KH.Spices.Core.Infrastructure.DataBase.dll

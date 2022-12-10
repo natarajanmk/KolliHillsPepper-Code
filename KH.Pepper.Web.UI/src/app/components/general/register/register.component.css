@@ -1,0 +1,35 @@
+.invalid{
+    color:#f44336;
+}
+.ng-valid.ng-dirty:not(form) {
+    border: solid 2px lightgreen;
+  }
+  
+  .ng-invalid.ng-dirty:not(form), .ng-invalid:not(form).form-submitted {
+    border: solid 2px #e75b1e;
+  }
+  .card-header{
+    background: var(--color-green);
+    /* background: linear-gradient(100deg,
+            var(--linear-gradient-color-1),
+            var(--linear-gradient-color-2),
+            var(--linear-gradient-color-3),
+            var(--linear-gradient-color-4)); */
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+  }
+.btn {
+      background-color: var(--color-green);
+      color: var(--color-black);
+      font-weight: bold;
+      font-size: 14px;
+      border: none;         
+}
+ 
+.btn:hover{
+background-color: var(--color-green) !important;
+color: var(--color-white) !important;
+}

@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <SignAssembly>true</SignAssembly>
+ 
+    <DelaySign>true</DelaySign>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyOriginatorKeyFile>D:\KHPPublicKey.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220918142827_Setup_Initial_Tables_Scripts.cs" />
+    <Compile Remove="Migrations\20220918142827_Setup_Initial_Tables_Scripts.Designer.cs" />
+    <Compile Remove="Migrations\20220918142907_Setup_Initial_Insert_Scripts.cs" />
+    <Compile Remove="Migrations\20220918142907_Setup_Initial_Insert_Scripts.Designer.cs" />
+    <Compile Remove="Migrations\AppDbContextModelSnapshot.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KH.Pepper.DataModel\KH.Pepper.Core.Domain.csproj" />
+    <ProjectReference Include="..\KH.Pepper.Services\KH.Pepper.Core.AppServices.csproj" />
+  </ItemGroup>
+
+</Project>

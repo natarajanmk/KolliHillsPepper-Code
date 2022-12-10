@@ -1,0 +1,15 @@
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\bin\Release\net6.0\KH.Pepper.Core.Infrastructure.DataBase.deps.json
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\bin\Release\net6.0\KH.Pepper.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\bin\Release\net6.0\KH.Pepper.Core.Infrastructure.DataBase.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\bin\Release\net6.0\KH.Pepper.Core.DataModel.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\bin\Release\net6.0\KH.Pepper.Core.DataModel.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Infrastructure.DataBase.csproj.AssemblyReference.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Infrastructure.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Infrastructure.DataBase.AssemblyInfoInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Infrastructure.DataBase.AssemblyInfo.cs
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Infrastructure.DataBase.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Infrastructure.DataBase.csproj.CopyComplete
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\refint\KH.Pepper.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\KH.Pepper.Core.Infrastructure.DataBase.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Data\obj\Release\net6.0\ref\KH.Pepper.Core.Infrastructure.DataBase.dll

@@ -1,0 +1,12 @@
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\bin\Release\net6.0\KH.Pepper.Core.DataModel.deps.json
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\bin\Release\net6.0\KH.Pepper.Core.DataModel.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\bin\Release\net6.0\KH.Pepper.Core.DataModel.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.DataModel.csproj.AssemblyReference.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.DataModel.AssemblyInfoInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.DataModel.AssemblyInfo.cs
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.DataModel.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.Core.DataModel.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\refint\KH.Pepper.Core.DataModel.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\KH.Pepper.Core.DataModel.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\obj\Release\net6.0\ref\KH.Pepper.Core.DataModel.dll

@@ -1,0 +1,17 @@
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.Data.deps.json
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.Data.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.Data.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.DataModel.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Repository.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.Repository.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\bin\Debug\net6.0\KH.Spices.Core.DataModel.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.Data.AssemblyInfo.cs
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Infrastructure.Data.csproj.CopyComplete
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Core.Infrastructure.Data.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\refint\KH.Spices.Core.Infrastructure.Data.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\KH.Spices.Core.Infrastructure.Data.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Data\obj\Debug\net6.0\ref\KH.Spices.Core.Infrastructure.Data.dll

@@ -1,0 +1,96 @@
+<nav class="navbar navbar-expand-lg navbar-icon-top">
+
+  <div class="container-fluid">
+    <!-- Brand -->
+    <a class="navbar-brand me-2 mb-1 d-flex align-items-center" href="#">
+      <img
+        src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.webp"
+        height="20"
+        width="50"
+        alt=""
+        loading="lazy"
+        style="margin-top: 2px;"
+      />
+    </a>
+   <!-- Brand -->
+
+   <!-- Expand & Collapse -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+   <!--  Expand & Collapse -->
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <!--  Center Menu -->
+      <ul class="navbar-nav navbar-collapse justify-content-lg-center">
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive="active" [routerLink]="['/home']">
+            <span><i class="fa fa-home fa-lg"></i></span>
+            Home
+            </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive="active" [routerLink]="['/aboutus']">
+            <span><i class="fa fa-info-circle fa-lg"></i></span>
+            About us
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive="active" [routerLink]="['/product']">
+            <span><i class="fa fa-th fa-lg"></i></span>
+            Product
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive="active" [routerLink]="['/contactus']">
+            <span><i class="fa fa-envelope fa-lg"></i></span>
+            Contact us
+          </a>
+        </li>
+
+      </ul>
+      <!--  Center Menu -->
+ 
+      <!--  Right Menu -->
+      <div class="navbar-nav navbar-collapse justify-content-lg-end">
+        <ul class="navbar-nav">      
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" 
+              role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <span><i class="fa fa-user-circle fa-lg"></i></span>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li>
+                <a class="dropdown-item" [routerLink]="['/register']"> 
+                  <span>
+                    <i class="fa fa-user-circle"></i>
+                  </span> Profile
+                </a>
+              </li>
+              <li><a class="dropdown-item" href="#"><span><i class="fa fa-sign-out"></i></span>Logout</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span><i class="fa fa-shopping-cart"></i></span>
+              Add to cart
+              <span class="badge badge-pill bg-danger">1</span>
+              
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/login']">
+              <span><i class="fa fa-sign-in fa-lg"></i></span>
+              Login
+            </a>
+          </li>
+          
+             
+        </ul> 
+ 
+      </div>
+      <!--  Center Menu -->
+      
+    </div>
+  </div>
+</nav>

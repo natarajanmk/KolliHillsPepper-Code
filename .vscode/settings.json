@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/eb05bd74-3a0c-4a12-94ef-dabc88684b8c/AppServices/subscriptions/eb05bd74-3a0c-4a12-94ef-dabc88684b8c/resourceGroups/rg-KolliHillsPepperAPIDemo1/providers/Microsoft.Web/sites/kollihillspepper",
+    "appService.deploySubpath": "KH.Pepper.WebAPI\\bin\\Release\\net6.0\\publish"
+}

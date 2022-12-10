@@ -1,0 +1,13 @@
+.body{
+    background: #E6E6E6;
+}
+
+.button-scroll-up {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    outline: none;
+  }

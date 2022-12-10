@@ -1,0 +1,12 @@
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\bin\Debug\net6.0\KH.Spices.Core.DataModel.deps.json
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\bin\Debug\net6.0\KH.Spices.Core.DataModel.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\bin\Debug\net6.0\KH.Spices.Core.DataModel.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.DataModel.csproj.AssemblyReference.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.DataModel.AssemblyInfoInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.DataModel.AssemblyInfo.cs
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.DataModel.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.Core.DataModel.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\refint\KH.Spices.Core.DataModel.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\KH.Spices.Core.DataModel.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.DataModel\obj\Debug\net6.0\ref\KH.Spices.Core.DataModel.dll

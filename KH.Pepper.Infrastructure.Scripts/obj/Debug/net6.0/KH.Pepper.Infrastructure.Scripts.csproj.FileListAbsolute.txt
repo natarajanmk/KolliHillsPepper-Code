@@ -1,0 +1,14 @@
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Debug\net6.0\BladeLogic\DataRefresh\Initial_Insert_Scripts.sql
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Debug\net6.0\DDLScripts\Procs\dbo.sp_DeleteTokens.sql
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Debug\net6.0\KH.Pepper.Core.Infrastructure.Scripts.deps.json
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Debug\net6.0\KH.Pepper.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Debug\net6.0\KH.Pepper.Core.Infrastructure.Scripts.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Infrastructure.Scripts.csproj.AssemblyReference.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Infrastructure.Scripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Infrastructure.Scripts.AssemblyInfoInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Infrastructure.Scripts.AssemblyInfo.cs
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Infrastructure.Scripts.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\refint\KH.Pepper.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\KH.Pepper.Core.Infrastructure.Scripts.pdb
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\obj\Debug\net6.0\ref\KH.Pepper.Core.Infrastructure.Scripts.dll

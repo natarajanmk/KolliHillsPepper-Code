@@ -1,0 +1,17 @@
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.Application.deps.json
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.Application.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.Application.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.DataModel.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.DataBase.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\bin\Debug\net6.0\KH.Spices.Core.DataModel.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Application.csproj.AssemblyReference.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Application.AssemblyInfoInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Application.AssemblyInfo.cs
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Application.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Application.csproj.CopyComplete
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Core.Application.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\refint\KH.Spices.Core.Application.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\KH.Spices.Core.Application.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Application\obj\Debug\net6.0\ref\KH.Spices.Core.Application.dll

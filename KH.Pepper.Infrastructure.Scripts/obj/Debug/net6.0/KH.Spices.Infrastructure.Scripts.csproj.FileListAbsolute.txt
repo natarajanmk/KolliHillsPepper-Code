@@ -1,0 +1,12 @@
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.Scripts.deps.json
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\bin\Debug\net6.0\KH.Spices.Core.Infrastructure.Scripts.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Infrastructure.Scripts.csproj.AssemblyReference.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Infrastructure.Scripts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Infrastructure.Scripts.AssemblyInfoInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Infrastructure.Scripts.AssemblyInfo.cs
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Infrastructure.Scripts.csproj.CoreCompileInputs.cache
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\refint\KH.Spices.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\KH.Spices.Core.Infrastructure.Scripts.pdb
+D:\Projects\KolliHills.Spices\KH.Spices\KH.Spices.Infrastructure.Scripts\obj\Debug\net6.0\ref\KH.Spices.Core.Infrastructure.Scripts.dll

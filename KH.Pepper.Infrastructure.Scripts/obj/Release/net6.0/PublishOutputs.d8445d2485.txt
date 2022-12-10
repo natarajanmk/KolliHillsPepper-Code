@@ -1,0 +1,5 @@
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Release\net6.0\publish\BladeLogic\DataRefresh\Initial_Insert_Scripts.sql
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Release\net6.0\publish\DDLScripts\Procs\dbo.sp_DeleteTokens.sql
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Release\net6.0\publish\KH.Pepper.Core.Infrastructure.Scripts.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Release\net6.0\publish\KH.Pepper.Core.Infrastructure.Scripts.deps.json
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.Infrastructure.Scripts\bin\Release\net6.0\publish\KH.Pepper.Core.Infrastructure.Scripts.pdb

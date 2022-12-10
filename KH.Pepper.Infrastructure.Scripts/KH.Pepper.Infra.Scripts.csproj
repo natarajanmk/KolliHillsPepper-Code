@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+     
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DDLScripts\Procs\dbo.sp_DeleteTokens.sql" />
+    <None Remove="DMLScripts\Initial_DataLoad\Initial_Insert_Scripts.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="DDLScripts\Procs\dbo.sp_DeleteTokens.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DMLScripts\Initial_DataLoad\Initial_Insert_Scripts.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DDLScripts\Views\" />
+    <Folder Include="SeedScripts\" />
+  </ItemGroup>
+
+</Project>

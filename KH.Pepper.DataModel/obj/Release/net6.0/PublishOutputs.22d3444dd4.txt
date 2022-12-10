@@ -1,0 +1,3 @@
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\bin\Release\net6.0\publish\KH.Pepper.Core.DataModel.dll
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\bin\Release\net6.0\publish\KH.Pepper.Core.DataModel.deps.json
+D:\Projects\KolliHillsPepper\KH.Pepper\KH.Pepper.DataModel\bin\Release\net6.0\publish\KH.Pepper.Core.DataModel.pdb

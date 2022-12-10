@@ -1,0 +1,114 @@
+.bg-Color{
+  background: #f8f6f6b9;
+}
+.carousel {
+  width:100%;
+  max-height: 270px !important;
+}
+.carousel-inner{
+  width:100%;
+  max-height: 270px !important;
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width:100%;
+  max-height: 270px !important;
+}
+.card-header{
+  background: var(--color-green);
+  /* background: linear-gradient(100deg,
+          var(--linear-gradient-color-1),
+          var(--linear-gradient-color-2),
+          var(--linear-gradient-color-3),
+          var(--linear-gradient-color-4)); */
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+}
+ 
+
+.form-control .text-cntl{
+  width: 100px;
+}
+/* Darker background on mouse-over */
+ 
+.ratings{
+  margin-right:10px;
+}
+
+.stock-available{
+  color: #428005;
+  font-weight: bold;
+  font-size:16px !important;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+
+.stock-Not-available{
+  color: #dd4c09;
+  font-weight: bold;
+  font-size:16px !important;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+
+.price {
+  color: #d37c09;
+  font-weight: bold;
+  font-size:16px !important;
+  font-family: 'Roboto', sans-serif;
+}
+.ratings i{
+  color:#cecece;
+  font-size:18px;
+}
+
+.rating-color{
+  color:#fbc634 !important;
+}
+
+.review-count{
+  font-weight:400;
+  margin-bottom:2px;
+  font-size:24px !important;
+}
+
+.small-ratings i{
+color:#cecece;   
+}
+
+.review-stat{
+  font-weight:100;
+  font-size:12px;
+  margin-bottom:2px;
+}
+.tips{
+  color:#fbc634 !important;
+  font-weight: bold;
+  font-size:16px !important;
+  font-family: 'Roboto', sans-serif;
+  cursor:pointer;
+}
+.tips:hover {
+  color: blue;
+}
+.btn {
+  background-color: var(--color-green);
+  color: var(--color-black);
+  font-weight: bold;
+  font-size: 12px;
+  border: none;         
+}
+
+.btn:hover{
+  background-color: var(--color-green) !important;
+  color: var(--color-white) !important;
+}
+.btn.disabled {
+  background-color: var(--color-green);
+  color: var(--color-black);
+  font-weight: bold;
+  font-size: 12px;
+  border: none;         
+}

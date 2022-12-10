@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Spices.WebAPI\\KH.Spices.WebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Spices.WebAPI\\KH.Spices.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Spices.WebAPI\\KH.Spices.WebAPI.csproj",
+        "projectName": "KH.Spices.WebAPI",
+        "projectPath": "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Spices.WebAPI\\KH.Spices.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Natarajan\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Spices.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natarajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Pepper.Application\\KH.Pepper.Application.csproj": {
+                "projectPath": "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Pepper.Application\\KH.Pepper.Application.csproj"
+              },
+              "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Pepper.Infrastructure.Data\\KH.Pepper.Infrastructure.DataBase.csproj": {
+                "projectPath": "D:\\Projects\\KolliHills.Spices\\KH.Spices\\KH.Pepper.Infrastructure.Data\\KH.Pepper.Infrastructure.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
